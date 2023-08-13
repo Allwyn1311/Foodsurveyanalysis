@@ -1,0 +1,23 @@
+Problem statement-Finding the most frequent food,which is being eaten by the people during Covid-
+
+1-What age group do you belong to?
+2-Which location you belong to?
+3-Food preference before Covid-19
+4-Food preference during Covid-19
+5-Food preference after Covid-19
+6-Any specific vegetable or fruit eaten before Covid?
+7-If yes, is that vegetable or fruit still being continued to be eaten?
+8-Were pluses eaten during Covid?
+9-If yes,what was the quantity?
+10-Is it still being eaten?
+11-How frequent  you used to eat veg\noveg during Covid?
+12-Did changing your diet or intake of extra fruits and vegetables help you in any way?
+13-Would you suggest any specific vegetables or fruits or pluses you have eaten to anyone esle?
+14-Was boiled vegetables eaten during Covid?
+15-Were dairy products part of your diet during Covid?
+
+
+How to open a Zip Video file?
+1-Create a folder on desktop with the file name
+2-Right click on the zip folder
+3-Extract all and then move it to the folder created on the desktop with that file name
